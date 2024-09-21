@@ -8,8 +8,6 @@ This is the frontend for an E-learning site developed during my internship at De
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Responsive Design**: Optimized for both desktop and mobile devices.
