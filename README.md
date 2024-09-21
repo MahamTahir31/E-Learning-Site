@@ -1,6 +1,5 @@
 
 
-```markdown
 # E-Learning Site
 
 This is the frontend for an E-learning site developed during my internship at Devsinz. The project was built using **React**, **Vite**, and **Tailwind CSS**, providing a fast and responsive user experience for online learners. I also used Context API in this project to propogate changes in edit profile to main profile page.
@@ -46,5 +45,3 @@ This is the frontend for an E-learning site developed during my internship at De
    ```bash
    npm run dev
    ```
-
-```
